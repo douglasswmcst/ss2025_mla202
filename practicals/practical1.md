@@ -37,8 +37,8 @@ A virtual environment is a private workspace for each project that keeps its dep
 1.  **Create a Project Folder**: Open your terminal or command prompt.
     ```bash
     # 1. Create a folder for your RL practicals and navigate into it
-    mkdir rl-practicals
-    cd rl-practicals
+    mkdir rl-practical-1
+    cd rl-practical-1
     ```
 2.  **Create the Virtual Environment**:
     ```bash
