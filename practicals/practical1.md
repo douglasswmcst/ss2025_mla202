@@ -47,10 +47,10 @@ A virtual environment is a private workspace for each project that keeps its dep
     ```
 3.  **Activate the Environment**: You must activate the environment every time you work on the project.
     ```bash
-    # On Windows:
+    # On Windows(Command Prompt/Powershell):
     venv\Scripts\activate
 
-    # On macOS/Linux:
+    # On macOS/Linux/Git Bash:
     source venv/bin/activate
     ```
     You'll know it's active because your command prompt will be prefixed with `(venv)`.
