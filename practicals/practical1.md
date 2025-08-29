@@ -156,7 +156,7 @@ while not terminated and not truncated:
     observation = next_observation
 
     # Add a small delay to make the visualization easier to follow
-    time.sleep(0.5)
+    time.sleep(5)
 
 # After the loop, the episode is finished.
 print(f"\nEpisode finished! Total Reward: {total_reward}")
