@@ -61,6 +61,7 @@ Now, with your virtual environment active, install the library using `pip`.
 
 ```bash
 pip install gymnasium
+pip install pygame
 ```
 
 To verify the installation was successful, you can run `pip show gymnasium`. You are now ready to start coding\!
