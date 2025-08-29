@@ -255,4 +255,4 @@ For your work to be graded, please follow these instructions carefully.
       * A section on challenges: What was the most difficult part of this practical for you? (e.g., setting up the environment, understanding the `step` function's return values, structuring the loops).
       * A section on key takeaways: What is the most important or surprising thing you learned?
 
-4.  **Submit Your Repository URL**: Once your repository is public and contains all the required files, submit the **URL** to your repository on the submission portal Moodle.
+4.  **Submit Your Repository URL**: Once your repository is public and contains all the required files, submit the **URL** to your repository on the submission google sheet.
