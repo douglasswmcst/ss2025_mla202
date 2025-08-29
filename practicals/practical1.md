@@ -246,6 +246,7 @@ For your work to be graded, please follow these instructions carefully.
 
       * The Python script(s) you wrote to complete the main walkthrough and the exercises. Please ensure your code is clean and commented where necessary.
       * A `README.md` file in the root of your repository.
+      * Screenshot of the average & total reward that you Ai managed to achieve
 
 3.  **Write Your Learning Retrospective**: Your `README.md` file is a critical part of your submission. It should contain a reflection on your experience with this practical. Please include the following:
 
