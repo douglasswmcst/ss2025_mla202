@@ -26,8 +26,8 @@ Click your team name below:
 
 | Day | What's Due | Time |
 |-----|------------|------|
-| **Tuesday** | Practical Test (Individual) | 9:00 AM |
-| **Saturday** | Everything Else (Team) | 11:59 PM |
+| **WEDNESDAY** | Practical Test (Individual) | 12:00 PM |
+| **FRIDAY** | Everything Else (Team) | 11:59 PM |
 
 ---
 
@@ -36,31 +36,11 @@ Click your team name below:
 ### Individual (Tuesday 9 AM)
 ✅ Complete practical test: [GUIDED_PRACTICAL_TEST.md](GUIDED_PRACTICAL_TEST.md)
 
-### Team (Saturday 11:59 PM)
+### Team (WEDNESDAY 11:59 PM)
 ✅ Term paper (1000-1500 words)
 ✅ Code implementation
 ✅ Video (5 minutes)
 ✅ Documentation
-
----
-
-## 🚀 Step 4: Quick Actions
-
-### Right Now:
-1. Click your team guide above
-2. Read the first page
-3. Set up Python environment
-4. Download practical test
-
-### Today (Day 1):
-- Work on practical test
-- Read your team guide completely
-- Set up your project folder
-
-### Tomorrow (Day 2):
-- **Submit practical test by 9 AM**
-- Start team project
-- Attend office hours (2-5 PM)
 
 ---
 
@@ -77,24 +57,6 @@ pip install numpy matplotlib torch gym
 
 ---
 
-## 🆘 Need Help?
-
-- **Your Guide**: Everything you need is there
-- **Office Hours**: 2-5 PM (Tue-Fri)
-- **VLE Forum**: Post questions
-- **Quick Answers**: [QUICK_START.md](QUICK_START.md)
-
----
-
-## 📚 Other Useful Documents
-
-- [QUICK_START.md](QUICK_START.md) - Ultra-quick reference
-- [MASTER_GUIDE_INDEX.md](MASTER_GUIDE_INDEX.md) - Complete navigation
-- [EMERGENCY_ASSESSMENT_PLAN.md](EMERGENCY_ASSESSMENT_PLAN.md) - Full plan details
-- [VERIFICATION_REPORT.md](VERIFICATION_REPORT.md) - Quality assurance
-
----
-
 ## ✅ What's Provided
 
 ✅ Complete implementation guides with full code
@@ -104,26 +66,6 @@ pip install numpy matplotlib torch gym
 ✅ Video guidelines
 ✅ Troubleshooting help
 
----
-
-## 🎯 Your Path to Success
-
-```
-1. Click your team guide ← START HERE
-2. Follow Day 1 instructions
-3. Complete practical test (Tue)
-4. Implement your project (Wed-Fri)
-5. Submit everything (Sat)
-```
-
----
-
-## ⚡ TL;DR
-
-1. **Click your team name above** ↑
-2. **Follow your guide step-by-step**
-3. **Submit practical test Tuesday 9 AM**
-4. **Submit project Saturday 11:59 PM**
 
 **You've got this!** 💪
 
