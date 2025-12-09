@@ -1,8 +1,7 @@
 # MLA202 Reinforcement Learning - Guided Take-Home Practical Test
 ## 24-Hour Assessment (10 marks)
 
-**Release Date**: Monday, 9:00 AM
-**Submission Deadline**: Tuesday, 9:00 AM (24 hours)
+**Submission Deadline**: Wednesday, 12:00 PM
 **Format**: Take-home practical examination
 **Submission**: Submit Jupyter notebook + Python files via VLE
 
