@@ -17,7 +17,6 @@
    - README: `studentID_README.txt` (explaining how to run)
 4. **Environment**: Python 3.8+, numpy, torch, gym, matplotlib
 5. **Academic Integrity**: Your code will be checked for plagiarism
-6. **Questions**: Post clarification questions on VLE forum (no code sharing!)
 
 ---
 
