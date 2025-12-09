@@ -3,7 +3,7 @@
 
 **Submission Deadline**: Wednesday, 12:00 PM
 **Format**: Take-home practical examination
-**Submission**: Submit Jupyter notebook + Python files via VLE
+**Submission**: Submit Jupyter notebook + Python files via GITHUB
 
 ---
 
